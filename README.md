@@ -11,10 +11,10 @@ Syksy 2025
 ## Screenshots
 
 **Home**
-![Home](Screenshot_HomeScreen.png)
+![Home](screenshots/Screenshot_HomeScreen.png)
 
 **Info**
-![Info](Screenshot_InfoScreen.png)
+![Info](screenshots/Screenshot_InfoScreen.png)
 
 ---
 
