@@ -7,7 +7,7 @@ Tekijä: **Merja Sotkasiira**
 
 ---
 
-## Screenshots
+## Screenshotit
 
 <p align="left">
   <img src="screenshots/Screenshot_HomeScreen.png" width="25%" />
