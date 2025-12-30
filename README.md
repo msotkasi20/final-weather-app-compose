@@ -1,16 +1,15 @@
 # WeatherApp 
 
 Pieni Android-sääsovellus, joka hakee käyttäjän sijainnin ja näyttää **nykyisen sään** Open-Meteo API:n avulla.  
-Tehty kurssille **Mobiiliohjelmointi natiiviteknologioilla (OAMK)**.
+Tehty kurssille **Mobiiliohjelmointi natiiviteknologioilla (OAMK, Syksy 2025)**.
 
 Tekijä: **Merja Sotkasiira**  
-Syksy 2025
 
 ---
 
 ## Screenshots
 
-<p align="center">
+<p align="left">
   <img src="screenshots/Screenshot_HomeScreen.png" width="25%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/Screenshot_InfoScreen.png" width="25%" />
