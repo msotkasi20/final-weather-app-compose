@@ -1,6 +1,6 @@
 # SÄÄ-ÄPPI 
 
-Pieni Android-sääsovellus, joka hakee käyttäjän sijainnin (pyytää ensin luvan sijaintitietoihin) ja näyttää **nykyisen sään** Open-Meteo API:n avulla.  
+Pieni Android-sääsovellus, joka hakee käyttäjän sijainnin (pyytää luvan sijaintitietoihin) ja näyttää **nykyisen sään** Open-Meteo API:n avulla.  
 Tehty kurssille **Mobiiliohjelmointi natiiviteknologioilla (OAMK, Syksy 2025)**.
 
 Tekijä: **Merja Sotkasiira**  
