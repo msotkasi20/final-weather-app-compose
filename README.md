@@ -1,4 +1,4 @@
-# WeatherApp 
+# SÄÄ-ÄPPI 
 
 Pieni Android-sääsovellus, joka hakee käyttäjän sijainnin ja näyttää **nykyisen sään** Open-Meteo API:n avulla.  
 Tehty kurssille **Mobiiliohjelmointi natiiviteknologioilla (OAMK, Syksy 2025)**.
