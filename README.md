@@ -1,6 +1,6 @@
 # WeatherApp 
 
-Pieni sääsovellus, joka hakee käyttäjän sijainnin ja näyttää **nykyisen sään** Open-Meteo API:n avulla.  
+Pieni Android-sääsovellus, joka hakee käyttäjän sijainnin ja näyttää **nykyisen sään** Open-Meteo API:n avulla.  
 Tehty kurssille **Mobiiliohjelmointi natiiviteknologioilla (OAMK)**.
 
 Tekijä: **Merja Sotkasiira**  
