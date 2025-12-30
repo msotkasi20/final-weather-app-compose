@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">SÄÄ-ÄPPI</string>
+    <string name="tuntuu_kuin_c">Tuntuu kuin: %1$d°C</string>
+    <string name="tuuli_m_s">Tuuli: %1$d m/s</string>
+    <string name="sijaintia_ei_saatu_varmista_ett_gps_sijainti_on_p_ll">Sijaintia ei saatu. Varmista, että GPS/sijainti on päällä.</string>
+    <string name="sijaintilupa_puuttuu_salli_sijainti_jotta_s_voidaan_hakea">Sijaintilupa puuttuu. Salli sijainti, jotta sää voidaan hakea.</string>
+    <string name="ei_dataa_viel_salli_sijainti_ja_paina_p_ivit">Ei dataa vielä. Salli sijainti ja paina Päivitä.</string>
+    <string name="salli_sijainti">Salli sijainti</string>
+    <string name="p_ivit">Päivitä</string>
+    <string name="s_tiedot_open_meteo">Säätiedot: Open-Meteo</string>
+    <string name="takaisin">Takaisin</string>
+    <string name="info">Info</string>
+    <string name="miksi_t_m_ppi">Miksi tämä äppi?</string>
+    <string name="kurssi_mobiiliohjelmointi_natiiviteknologioilla">Kurssi: Mobiiliohjelmointi natiiviteknologioilla\n</string>
+    <string name="oamk_insin_riopinnot_erik_ohjelmistokehitys">OAMK – Insinööriopinnot (erik. ohjelmistokehitys)\n</string>
+    <string name="tekij_merja_sotkasiira">Tekijä: Merja Sotkasiira</string>
+    <string name="mit_sovellus_tekee">Mitä sovellus tekee?</string>
+    <string name="n_ytt_nykyisen_s_n_laitteen_sijainnin_perusteella">Näyttää nykyisen sään laitteen sijainnin perusteella.</string>
+    <string name="data">Data</string>
+    <string name="s_tiedot_haetaan_open_meteo_api_sta_ei_api_avainta">Säätiedot haetaan Open-Meteo API:sta (ei API-avainta).</string>
+    <string name="tekniikat">Tekniikat</string>
+    <string name="kotlin_jetpack_compose">• Kotlin + Jetpack Compose\n</string>
+    <string name="navigation_home_info">• Navigation (Home + Info)\n</string>
+    <string name="mvvm_viewmodel_repository">• MVVM (ViewModel + Repository)\n</string>
+    <string name="ktor_kotlinx_serialization_http_json">• Ktor + kotlinx.serialization (HTTP + JSON)\n</string>
+    <string name="fused_location_provider_sijainti">• Fused Location Provider (sijainti)</string>
+    <string name="toiminnallisuudet">Toiminnallisuudet</string>
+    <string name="automaattinen_haku_luvan_j_lkeen">• Automaattinen haku luvan jälkeen\n</string>
+    <string name="latausindikaattori_haun_aikana">• Latausindikaattori haun aikana\n</string>
+    <string name="virheilmoitus_jos_sijaintia_tai_dataa_ei_saada">• Virheilmoitus jos sijaintia tai dataa ei saada</string>
+    <string name="versio_1_0">Versio 1.0</string>
+    <string name="tietoa_sovelluksesta">Tietoa sovelluksesta</string>
+    <string name="haetaan_s_tietoa">Haetaan säätietoa…</string>
+    <string name="salli_sijainti_ja_paina_p_ivit">Salli sijainti ja paina Päivitä.</string>
 </resources>

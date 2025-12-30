@@ -1,11 +1,5 @@
-
-# Android Studio / IntelliJ
-.idea/
-*.iml
-
-# Local config (älä koskaan committaa)
-local.properties
-
-# Gradle
-.gradle/
-build/
+/.idea/
+/*.iml
+/local.properties
+/.gradle/
+/**/build/
