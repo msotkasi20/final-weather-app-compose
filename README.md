@@ -11,8 +11,9 @@ Syksy 2025
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot_HomeScreen.png" width="25%" style="margin-right: 16px;" />
-  <img src="screenshots/Screenshot_InfoScreen.png" width="25%" style="margin-left: 16px;" />
+  <img src="screenshots/Screenshot_HomeScreen.png" width="25%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/Screenshot_InfoScreen.png" width="25%" />
 </p>
 
 ---
