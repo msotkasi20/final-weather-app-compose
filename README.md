@@ -8,6 +8,16 @@ Syksy 2025
 
 ---
 
+## Screenshots
+
+**Home**
+![Home](screenshots/home.png)
+
+**Info**
+![Info](screenshots/info.png)
+
+---
+
 ## Mitä sovellus tekee?
 
 - Hakee laitteen **sijainnin** (Fused Location Provider)
@@ -95,21 +105,6 @@ Ei tarvitse API-avainta.
 Käytössä on `/v1/forecast` ja `current=...` kentät (lämpötila, tuntuu kuin, sääkoodi, tuuli jne.).
 
 ---
-
-## Kurssin vaatimukset (oma tsekki)
-
-- [x] Kotlin + Jetpack Compose (ei XML-UI:ta)
-- [x] 2 näyttöä + navigointi (Home + Info)
-- [x] API-kutsu ja datan näyttö
-- [x] MVVM-rakenne (UI → ViewModel → Repository → Network)
-- [x] Loading-indikaattori
-- [x] Virheenkäsittely (sijainti/API)
-- [x] Koodi jaettu paketteihin/tiedostoihin
-- [x] Teema muokattu (ei oletus)
-
-> Huom: käyttäjälle näkyvät tekstit on tarkoitus pitää strings.xml:ssä.
-
-
 
 ## Lisenssi
 
